@@ -21,9 +21,9 @@ MA 02110-1301, USA.
 
 ### Introduction
 
-This little Application generates wvapp-files for [pfolta's Webview](https://github.com/pfolta/WebView). Only creation from wvapp-files is currently supported.
+This little application generates wvapp-files for [pfolta's Webview](https://github.com/pfolta/WebView). Only creation from wvapp-files is currently supported.
 
-A wvapp-file is a setting-file for WebView and contains all needed informations to open a specific website in a specific flavour.
+A wvapp-file is a setting-file for WebView and contains all needed information for opening a specific website in a specific flavour.
 
 ### Compiling instructions
 
