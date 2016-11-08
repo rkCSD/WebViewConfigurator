@@ -1,4 +1,4 @@
-# WebViewConfigurator (Version 1.0)
+# WebViewConfigurator (Version 1.1)
 A little Java-Application for creating wvapp-files for pfolta's WebView
 
 Copyright © 2016 rkCSD Eu <email@rkcsd.com>
