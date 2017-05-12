@@ -1,3 +1,4 @@
+[Manual (German)](https://wiki.reneknipschild.net/dev:web:webview)
 # WebViewConfigurator (Version 1.1)
 A little Java-Application for creating wvapp-files for pfolta's WebView
 
